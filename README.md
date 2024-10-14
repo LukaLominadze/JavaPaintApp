@@ -6,7 +6,7 @@ A paint application made in java! featuring
 - Erase swatch
 
 
-https://github.com/user-attachments/assets/ee4fd5ca-ab16-4736-bb1d-ce4458ff30de
+https://github.com/user-attachments/assets/f9222ec8-195d-4059-a7f5-a6d774997170
 
 
 ## Platform
