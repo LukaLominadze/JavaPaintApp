@@ -9,13 +9,13 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
-import firstapplicaion.events.Event;
-import firstapplicaion.events.EventDispatcher;
-import firstapplicaion.events.EventListener;
-import firstapplicaion.events.EventObservable;
-import firstapplicaion.events.types.MousePressedEvent;
-import firstapplicaion.events.types.MouseReleasedEvent;
-import firstapplicaion.layers.Layer;
+import engine.events.Event;
+import engine.events.EventDispatcher;
+import engine.events.EventListener;
+import engine.events.EventObservable;
+import engine.events.types.MousePressedEvent;
+import engine.events.types.MouseReleasedEvent;
+import engine.layers.Layer;
 
 public class ToolSwatchLayer extends Layer {
 	

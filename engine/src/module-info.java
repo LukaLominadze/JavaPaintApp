@@ -4,10 +4,10 @@
 /**
  * 
  */
-module firstapplicaion {
+module engine {
 	requires java.desktop;
-	exports firstapplicaion.core;
-	exports firstapplicaion.layers;
-	exports firstapplicaion.events;
-	exports firstapplicaion.events.types;
+	exports engine.core;
+	exports engine.layers;
+	exports engine.events;
+	exports engine.events.types;
 }

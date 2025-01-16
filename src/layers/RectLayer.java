@@ -4,12 +4,12 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
-import firstapplicaion.events.Event;
-import firstapplicaion.events.EventDispatcher;
-import firstapplicaion.events.types.MouseMovedEvent;
-import firstapplicaion.events.types.MousePressedEvent;
-import firstapplicaion.events.types.MouseReleasedEvent;
-import firstapplicaion.layers.Layer;
+import engine.events.Event;
+import engine.events.EventDispatcher;
+import engine.events.types.MouseMovedEvent;
+import engine.events.types.MousePressedEvent;
+import engine.events.types.MouseReleasedEvent;
+import engine.layers.Layer;
 
 public class RectLayer extends Layer {
 	

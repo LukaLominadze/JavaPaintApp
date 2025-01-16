@@ -1,4 +1,4 @@
-package firstapplicaion.core;
+package engine.core;
 
 import java.awt.Graphics;
 import java.awt.event.ComponentAdapter;
@@ -14,14 +14,14 @@ import java.util.List;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-import firstapplicaion.events.Event;
-import firstapplicaion.events.types.KeyDownEvent;
-import firstapplicaion.events.types.KeyPressedEvent;
-import firstapplicaion.events.types.KeyReleasedEvent;
-import firstapplicaion.events.types.MouseMovedEvent;
-import firstapplicaion.events.types.MousePressedEvent;
-import firstapplicaion.events.types.MouseReleasedEvent;
-import firstapplicaion.layers.Layer;
+import engine.events.Event;
+import engine.events.types.KeyDownEvent;
+import engine.events.types.KeyPressedEvent;
+import engine.events.types.KeyReleasedEvent;
+import engine.events.types.MouseMovedEvent;
+import engine.events.types.MousePressedEvent;
+import engine.events.types.MouseReleasedEvent;
+import engine.layers.Layer;
 
 @SuppressWarnings("serial")
 public class Window extends JFrame {

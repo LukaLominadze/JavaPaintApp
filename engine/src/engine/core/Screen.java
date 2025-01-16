@@ -1,4 +1,4 @@
-package firstapplicaion.core;
+package engine.core;
 
 import java.awt.Canvas;
 import java.awt.Color;

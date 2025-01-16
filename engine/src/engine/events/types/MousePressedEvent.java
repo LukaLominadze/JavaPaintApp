@@ -1,6 +1,6 @@
-package firstapplicaion.events.types;
+package engine.events.types;
 
-import firstapplicaion.events.Event;
+import engine.events.Event;
 
 public class MousePressedEvent extends MouseButtonEvent {
 

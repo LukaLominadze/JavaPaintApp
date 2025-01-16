@@ -1,6 +1,6 @@
 package events;
 
-import firstapplicaion.events.Event;
+import engine.events.Event;
 
 public class EraseDrawingEvent extends Event {
 

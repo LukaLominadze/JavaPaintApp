@@ -3,9 +3,9 @@ package core;
 import java.awt.Color;
 
 import events.ColorPickedEvent;
-import firstapplicaion.core.Window;
-import firstapplicaion.events.Event;
-import firstapplicaion.layers.Layer;
+import engine.core.Window;
+import engine.events.Event;
+import engine.layers.Layer;
 import layers.ColorSwatchLayer;
 import layers.DrawLayer;
 import layers.EraseSwatchLayer;

@@ -5,8 +5,8 @@ import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 
 import events.ColorPickedEvent;
-import firstapplicaion.events.EventListener;
-import firstapplicaion.events.types.MouseReleasedEvent;
+import engine.events.EventListener;
+import engine.events.types.MouseReleasedEvent;
 
 public class ColorSwatchLayer extends SwatchLayer {
 	
