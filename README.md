@@ -5,6 +5,8 @@ A paint application made in java! featuring
 - Color swatches
 - Erase swatch
 
+<img width="960" alt="paint" src="https://github.com/user-attachments/assets/ac7ac7f8-0c7a-4dd7-96a5-de470a4ee805" />
+
 
 https://github.com/user-attachments/assets/f9222ec8-195d-4059-a7f5-a6d774997170
 
